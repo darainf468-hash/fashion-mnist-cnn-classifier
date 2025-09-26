@@ -24,14 +24,14 @@ More than just a simple classifier, this project focuses on implementing key reg
     <td align="center"><strong>Model Training History</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/sample_predictions.png" alt="Sample Predictions"></td>
-    <td><img src="assets/training_history.png" alt="Training History Plot"></td>
+    <td><img src="sample_predictions.png" alt="Sample Predictions"></td>
+    <td><img src="training_history.png" alt="Training History Plot"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Confusion Matrix</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="assets/confusion_matrix.png" alt="Confusion Matrix"></td>
+    <td colspan="2" align="center"><img src="confusion_matrix.png" alt="Confusion Matrix"></td>
   </tr>
 </table>
 
